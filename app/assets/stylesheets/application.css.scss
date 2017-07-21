@@ -47,15 +47,14 @@ h1, h2, h3 {
     }
 }
 
-.navbar-default .navbar-toggle .icon-bar{
-    background-color: white;
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: white;
 }
-
-.navbar-default .snavbar-toggle {
-    border: 2px solid white;
-    &:hover, &:focus{
-        background-color: #1FA2FF;
-    }
+.navbar-default .navbar-toggle {
+  border: 2px solid white;
+  &:hover, &:focus {
+    background-color: #1FA2FE;
+  }
 }
 
 .home-callout{
